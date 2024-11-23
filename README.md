@@ -1,2 +1,2 @@
 # Login-Screens-
-This repo contains baic login pages for frontend 
+This repo contains basic login pages for frontend 
